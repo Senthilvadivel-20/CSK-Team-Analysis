@@ -16,6 +16,11 @@ See Bowler Chart - https://public.tableau.com/app/profile/senthilvadivel/viz/Wic
 See wicket Taken By CSK - https://public.tableau.com/app/profile/senthilvadivel/viz/WickerttakenbyCSK/WicketTakenbyCSK
 
 
-### Batting Statistics Tableau
+### Batting Statistics Table
 
 <div class='tableauPlaceholder' id='viz1636911697025' style='position: relative'><noscript><a href='#'><img alt='Over all CSK&#39;s Batting Perfomance ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CS&#47;CSKBattingStatistics&#47;OverallCSKstatistics&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CSKBattingStatistics&#47;OverallCSKstatistics' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CS&#47;CSKBattingStatistics&#47;OverallCSKstatistics&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>               
+
+
+### Bowling Statistics Table
+
+<div class='tableauPlaceholder' id='viz1636912961683' style='position: relative'><noscript><a href='#'><img alt='CSK&#39;s over all Bowling statistics ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CS&#47;CSKBowlingStatistics&#47;CSKsBowling&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CSKBowlingStatistics&#47;CSKsBowling' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CS&#47;CSKBowlingStatistics&#47;CSKsBowling&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>               
