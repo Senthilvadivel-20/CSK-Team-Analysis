@@ -1,6 +1,6 @@
 # 🦁 Chennai Super Kings 💛 Team Analysis usin Tableau
 
-![CSK Image]('https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/1200px-Chennai_Super_Kings_Logo.svg.png')
+![CSK Image] ('https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/1200px-Chennai_Super_Kings_Logo.svg.png')
 
 
 In this Story file you can see the CSK players contribution to the team CSK. These are accurate statistics, the data were prepared by mine. Please do ⭐ this repository.
